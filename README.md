@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabit Can</h1>
 <h3 align="center">A software engineer student at Manisa Celal Bayar University</h3>
-<img align="right" width="400" height="300" src="https://github.com/SabitCanTurunc/SabitCanTurunc/assets/114212366/869ace91-003a-49b7-b5de-7a12f77df620"/>
+<img align="right" width="400" height="300" src="https://github.com/SabitCanTurunc/SabitCanTurunc/assets/114212366/1a2ada8e-c112-466a-b9e9-708c2d5429d8"/>
 
 - 🌱 I’m currently learning **node.js**
 
