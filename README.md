@@ -8,8 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.sabitcanturunc.com.tr" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-sabitcanturunc.com.tr-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+<a href="https://www.sabitcanturunc.com.tr" target="blank" style="margin-right: 10px;">
+  <!-- logo=vercel kısmı kaldırıldı -->
+  <img align="center" src="https://img.shields.io/badge/Portfolio-sabitcanturunc.com.tr-blue?style=for-the-badge" alt="Portfolio" />
 </a>
 <br/><br/>
 <a href="https://twitter.com/sabitcanturunc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabitcanturunc" height="30" width="40" /></a>
